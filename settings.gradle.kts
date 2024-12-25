@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Java Class Loading Test"
 include(":app")
+include(":testlib")
